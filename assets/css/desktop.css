@@ -64,6 +64,10 @@ body {
     width: 100%;
     border-radius: 100%;
   }
+  .content {
+    text-align: center;
+    margin: 5vh auto;
+  }
   .contentfits {
     display: inline-block;
     text-align: left;
@@ -72,11 +76,12 @@ body {
     max-width: 35vw;
     vertical-align: middle;
   }
-  .content {
-    text-align: center;
-    margin: 5vh auto;
-  }
-  
+  .contentfits h3,
+.contentfits p {
+    text-align: left;
+    margin: 0;
+}
+
   .testimonials {
     text-align: center;
     background-color: #f04c2f;
