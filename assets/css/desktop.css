@@ -77,7 +77,7 @@ body {
     vertical-align: middle;
   }
   .contentfits h3,
-.contentfits p {
+  .contentfits p {
     text-align: left;
     margin: 0;
 }
